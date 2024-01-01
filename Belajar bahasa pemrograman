@@ -2,6 +2,7 @@
  ^ES6
  *Framwork javascript
   ^Vue
+  ^React
 -Belajar struktur data dasar
 -Framwork PHP
  ^Laravel
